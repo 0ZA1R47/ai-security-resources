@@ -40,7 +40,5 @@ This repo contains learning resources for AI Security &amp; Governance. Feel fre
 - Strengthening & Democratizing the U.S. AI Innovation Ecosystem: An Implementation Plan for a National AI Research Resource https://resourcecenter.cis.ieee.org/government/usa/cisgovph0020
 - Stanford Institute for Human-Centered Artificial Intelligence (HAI) AI Bill of Rights https://hai.stanford.edu/sites/default/files/2022-03/HAI%20Policy%20White%20Paper%20-%20Stanford%20HAI%20Artificial%20Intelligence%20Bill%20of%20Rights.pdf
 - Best practices for AI & Workplace Assessment Technologies from Future of Privacy Forum (FPF) https://fpf.org/wp-content/uploads/2024/02/FPF-Best-Practices-for-AI-and-WA-Tech-FINAL-with-date.pdf
-- dlapiperdataprotection.com - repo of DP laws
-- fairly.ai/blog/map-of-global-ai-regulations - 
-- iapp.org - global ai legislation tracker
-- Microsoft RAI Standards - Impact Assessment guide - RAI dashboard - GitHub Repo 
+- Microsoft RAI Impact Assessment guide https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf- 
+- Microsoft Responsible AI Toolbox https://github.com/microsoft/responsible-ai-toolbox
