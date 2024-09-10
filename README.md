@@ -3,7 +3,7 @@ This repo contains learning resources for AI Security &amp; Governance. Feel fre
 
 ## Resources
 - EU AI Office https://digital-strategy.ec.europa.eu/en/policies/ai-office
-- https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Educational-Resources
+- OWASP Top 10 for LLM Project Repo: https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Educational-Resources
 - EU AI Act Navigator https://artificialintelligenceact.eu/developments/ 
 - Robust Intelligence AI Safety & Security Taxonomy https://www.robustintelligence.com/ai-security-and-safety-taxonomy
 - Robust Intelligence AI Security Reference Architectures https://www.robustintelligence.com/ai-security-reference-architectures
