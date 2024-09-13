@@ -1,5 +1,6 @@
 ## Mind Map 
-Mind Map.jpg
+![AI-Security-Mind-Map](Mind-Map.jpg)
+
 ## Resources
 - EU AI Office https://digital-strategy.ec.europa.eu/en/policies/ai-office
 - OWASP Top 10 for LLM Project Repo: https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Educational-Resources
