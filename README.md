@@ -1,8 +1,5 @@
-# ai-security-resources
-This repo contains learning resources for AI Security &amp; Governance. Feel free to contribute 
 ## Mind Map 
-https://github.com/0ZA1R47/ai-security-resources/blob/3fc771fc916b2583749ff93e954b8ef88b726be7/Mind%20Map.jpg
-
+Mind Map.jpg
 ## Resources
 - EU AI Office https://digital-strategy.ec.europa.eu/en/policies/ai-office
 - OWASP Top 10 for LLM Project Repo: https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Educational-Resources
