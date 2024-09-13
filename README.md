@@ -42,3 +42,6 @@ This repo contains learning resources for AI Security &amp; Governance. Feel fre
 - Best practices for AI & Workplace Assessment Technologies from Future of Privacy Forum (FPF) https://fpf.org/wp-content/uploads/2024/02/FPF-Best-Practices-for-AI-and-WA-Tech-FINAL-with-date.pdf
 - Microsoft RAI Impact Assessment guide https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Guide.pdf- 
 - Microsoft Responsible AI Toolbox https://github.com/microsoft/responsible-ai-toolbox
+- CTF Platform https://crucible.dreadnode.io/dashboard
+- DEFCON AI Village CTF 30 https://www.kaggle.com/competitions/ai-village-ctf
+- DEFCON AI Village CTF 31 https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31
